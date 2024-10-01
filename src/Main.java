@@ -68,7 +68,7 @@ public class Main {
                 break;
             }else if (ErrorsNow==MAXERRORS){
                 drawGallows();
-                System.out.println("ВЫ ПРОЕБАЛИ)");
+                System.out.println("ВЫ проигралИ)");
                 break;
             }
         }
